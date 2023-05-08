@@ -465,3 +465,13 @@ a.profile-counter {
     display: block;
     width: 100%;
 }
+
+.post__comment {
+    font-size: 32px;
+    margin: 0 16px;
+}
+
+.post__comment a {
+    color: inherit;
+    text-decoration: none;
+}
